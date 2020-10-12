@@ -133,3 +133,5 @@ plot/
 result/
 log/
 model/
+
+**/.vscode/
